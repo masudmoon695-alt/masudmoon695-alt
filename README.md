@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Masud Perveze Moon - Frontend Developer" width="100%">
+</p>
+
+
 # Hi there 👋, I'm Md. Masud Perveze Moon
 
 ### 💻 Frontend Developer | CSE Student
